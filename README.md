@@ -1,2 +1,2 @@
 # data-downloader
-Downloads Daryl DeFord's redistricting data and renames files
+Downloads redistricting data from Daryl DeFord and Eugene Lykhovyd and renames files
