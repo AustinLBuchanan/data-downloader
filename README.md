@@ -1,2 +1,2 @@
 # data-downloader
-Downloads redistricting data from Daryl DeFord and Eugene Lykhovyd and renames files
+Python codes used to download redistricting data from Daryl DeFord, Eugene Lykhovyd, and the census and renames files to the form TX_tract.json and TX_tract.shp.
